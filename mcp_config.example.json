@@ -1,0 +1,1 @@
+{"mcpServers":{"gutenberg":{"args":["/absolute/path/to/tinyfish-site-to-mcp/server.py"],"command":"python3","env":{"TINYFISH_API_KEY":"YOUR_KEY_HERE"}}}}

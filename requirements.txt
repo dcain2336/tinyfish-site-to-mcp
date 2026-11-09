@@ -1,0 +1,3 @@
+# No third-party dependencies — Python 3.9+ standard library only.
+# (server.py, tinyfish_client.py, gutenberg.py, direct_client.py and
+# verify.py all run on the stdlib.)
